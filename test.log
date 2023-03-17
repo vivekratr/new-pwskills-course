@@ -1,0 +1,50 @@
+INFO:root:THis is through logging
+WARNING:root:This is my warning!!!
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+WARNING:root:This is my warning!!!
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 69fdd986-f5c6-491d-873a-b569c4099e29
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!
+INFO:root:THis is through logging
+INFO:root:THis is through logging
+ERROR:root:Error 303
+CRITICAL:root:Situation is critical!

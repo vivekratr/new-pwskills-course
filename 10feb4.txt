@@ -1,0 +1,10 @@
+Intelligence is a complex concept that refers to the ability of an individual 
+to learn from experience, reason, solve problems, adapt to new situations, and think abstractly.
+While there is no universally agreed upon definition of intelligence, most experts agree that it is a multifaceted
+construct that includes cognitive, social, and emotional abilities.
+There are different ways to classify intelligence, but one common way is to distinguish between two broad types: 
+fluid intelligence and crystallized intelligence.
+
+Fluid Intelligence: Fluid intelligence refers to the ability to think abstractly and solve problems in novel situations,
+independent of acquired knowledge. It is often considered to be a measure of raw intellectual potential and is thought to
+decline with age. Examples of tasks that measure fluid intelligence include pattern recognition, spatial reasoning, and logical thinking.

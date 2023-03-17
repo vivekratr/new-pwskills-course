@@ -1,0 +1,11 @@
+INFO:root:This prog
+INFO:root:This program is written for printing exception hierarchy.
+ERROR:root:This Value error has arrived
+ERROR:root:This Value error has arrived
+ERROR:root:This Value error has arrived
+ERROR:root:This Value error has arrived
+ERROR:root:Zero division error has been handled
+ERROR:root:Key error has been handled.
+ERROR:root:Index error has been handled
+ERROR:root:Key error has been handled.
+ERROR:root:Index error has been handled

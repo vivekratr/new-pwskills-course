@@ -1,0 +1,2 @@
+This is the new text , previous text were replaced by this one because file is in 'w' mode.
+This will get appended to the previous text.

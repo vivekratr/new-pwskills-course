@@ -1,0 +1,22 @@
+2023-02-25 12:15:46,600 diff parser start
+2023-02-25 12:15:46,600 line_lengths old: 3; new: 2
+2023-02-25 12:15:46,600 -> code[replace] old[1:3] new[1:2]
+2023-02-25 12:15:46,600 parse_part from 1 to 2 (to 1 in part parser)
+2023-02-25 12:15:46,600 diff parser end
+2023-02-25 12:15:49,437 diff parser start
+2023-02-25 12:15:49,437 line_lengths old: 2; new: 2
+2023-02-25 12:15:49,437 -> code[equal] old[1:1] new[1:1]
+2023-02-25 12:15:49,438 parse_part from 1 to 2 (to 1 in part parser)
+2023-02-25 12:15:49,438 -> code[replace] old[2:2] new[2:2]
+2023-02-25 12:15:49,438 diff parser end
+2023-02-25 12:16:17,349 hellu
+2023-02-25 12:16:23,452 hellu
+2023-02-25 12:16:23,453 hellu
+2023-02-25 12:16:23,453 hellu
+2023-02-25 12:16:23,453 hellu
+2023-02-25 12:16:23,453 hellu
+2023-02-25 12:16:23,454 hellu
+2023-02-25 12:16:23,454 hellu
+2023-02-25 12:16:23,455 hellu
+2023-02-25 12:16:23,455 hellu
+2023-02-25 12:16:23,455 hellu

@@ -1,0 +1,144 @@
+2023-02-21 06:28:10,804 This is the execution of example1 of 2nd questiong of 12th Feb assignment
+2023-02-21 06:28:37,997 This is the execution of example1 of 2nd questiong of 12th Feb assignment
+2023-02-21 06:28:37,998 Error has been raised due to pow() function is been used on character
+2023-02-21 06:29:37,141 This is the 2nd example of 2nd Question ,  here error has been handled by using exception
+2023-02-21 06:41:25,249 THis is the 3rd question code.Here the use of try,except,else and finally  keyword"s uses are shown
+2023-02-21 06:41:25,250 Inside 3rd question, an attempt to divide the string and integer is done.
+2023-02-21 06:41:33,686 THis is the 3rd question code.Here the use of try,except,else and finally  keyword"s uses are shown
+2023-02-21 06:41:33,687 Inside 3rd question, an attempt to divide the string and integer is done.
+2023-02-21 06:46:23,617 This is 1st example of 4th question.
+2023-02-21 06:46:43,999 This is 1st example of 4th question.
+2023-02-21 06:46:46,090 This is 1st example of 4th question.
+2023-02-21 06:48:41,438 THis is the 2nd example of 4th question
+2023-02-21 06:48:46,395 THis is the 2nd example of 4th question
+2023-02-21 06:51:13,413 This the 3rd example of 4th question and here the use of "raise" statement is performed.
+2023-02-21 06:51:51,863 This the 3rd example of 4th question and here the use of "raise" statement is performed.
+2023-02-21 06:51:53,833 This the 3rd example of 4th question and here the use of "raise" statement is performed.
+2023-02-21 06:54:24,071 diff parser start
+2023-02-21 06:54:24,071 line_lengths old: 9; new: 6
+2023-02-21 06:54:24,071 -> code[replace] old[1:5] new[1:2]
+2023-02-21 06:54:24,072 parse_part from 1 to 2 (to 4 in part parser)
+2023-02-21 06:54:24,072 -> code[equal] old[6:6] new[3:3]
+2023-02-21 06:54:24,073 parse_part from 3 to 5 (to 5 in part parser)
+2023-02-21 06:54:24,073 -> code[replace] old[7:9] new[4:6]
+2023-02-21 06:54:24,073 parse_part from 6 to 6 (to 5 in part parser)
+2023-02-21 06:54:24,073 diff parser end
+2023-02-21 06:54:32,018 diff parser start
+2023-02-21 06:54:32,018 line_lengths old: 6; new: 7
+2023-02-21 06:54:32,018 -> code[equal] old[1:5] new[1:5]
+2023-02-21 06:54:32,019 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:54:32,020 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:54:32,020 copy old[5:5] new[3:5]
+2023-02-21 06:54:32,020 -> code[replace] old[6:6] new[6:7]
+2023-02-21 06:54:32,020 parse_part from 6 to 7 (to 6 in part parser)
+2023-02-21 06:54:32,020 diff parser end
+2023-02-21 06:54:42,342 diff parser start
+2023-02-21 06:54:42,342 line_lengths old: 7; new: 8
+2023-02-21 06:54:42,342 -> code[equal] old[1:6] new[1:6]
+2023-02-21 06:54:42,343 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:54:42,344 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:54:42,344 copy old[5:5] new[3:5]
+2023-02-21 06:54:42,344 parse_part from 6 to 5 (to 5 in part parser)
+2023-02-21 06:54:42,344 parse_part from 6 to 8 (to 7 in part parser)
+2023-02-21 06:54:42,344 -> code[replace] old[7:7] new[7:8]
+2023-02-21 06:54:42,345 diff parser end
+2023-02-21 06:54:44,610 diff parser start
+2023-02-21 06:54:44,610 line_lengths old: 8; new: 8
+2023-02-21 06:54:44,610 -> code[equal] old[1:7] new[1:7]
+2023-02-21 06:54:44,611 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:54:44,611 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:54:44,611 copy old[5:5] new[3:5]
+2023-02-21 06:54:44,612 parse_part from 6 to 5 (to 5 in part parser)
+2023-02-21 06:54:44,612 parse_part from 6 to 8 (to 7 in part parser)
+2023-02-21 06:54:44,612 -> code[replace] old[8:8] new[8:8]
+2023-02-21 06:54:44,612 diff parser end
+2023-02-21 06:54:47,249 diff parser start
+2023-02-21 06:54:47,249 line_lengths old: 8; new: 8
+2023-02-21 06:54:47,249 -> code[equal] old[1:7] new[1:7]
+2023-02-21 06:54:47,251 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:54:47,251 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:54:47,251 copy old[5:5] new[3:5]
+2023-02-21 06:54:47,252 parse_part from 6 to 5 (to 5 in part parser)
+2023-02-21 06:54:47,252 parse_part from 6 to 8 (to 7 in part parser)
+2023-02-21 06:54:47,252 -> code[replace] old[8:8] new[8:8]
+2023-02-21 06:54:47,252 diff parser end
+2023-02-21 06:54:49,456 diff parser start
+2023-02-21 06:54:49,456 line_lengths old: 8; new: 8
+2023-02-21 06:54:49,456 -> code[equal] old[1:7] new[1:7]
+2023-02-21 06:54:49,457 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:54:49,458 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:54:49,458 copy old[5:5] new[3:5]
+2023-02-21 06:54:49,458 parse_part from 6 to 5 (to 5 in part parser)
+2023-02-21 06:54:49,459 parse_part from 6 to 9 (to 7 in part parser)
+2023-02-21 06:54:49,459 -> code[replace] old[8:8] new[8:8]
+2023-02-21 06:54:49,459 diff parser end
+2023-02-21 06:54:49,512 pickle loaded: /opt/conda/lib/python3.10/typing.py
+2023-02-21 06:54:49,525 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-02-21 06:56:42,433 diff parser start
+2023-02-21 06:56:42,434 line_lengths old: 8; new: 11
+2023-02-21 06:56:42,434 -> code[equal] old[1:7] new[1:7]
+2023-02-21 06:56:42,435 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:56:42,435 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:56:42,435 copy old[5:5] new[3:5]
+2023-02-21 06:56:42,435 parse_part from 6 to 5 (to 5 in part parser)
+2023-02-21 06:56:42,436 parse_part from 6 to 8 (to 8 in part parser)
+2023-02-21 06:56:42,436 -> code[replace] old[8:8] new[8:11]
+2023-02-21 06:56:42,437 parse_part from 9 to 11 (to 10 in part parser)
+2023-02-21 06:56:42,437 diff parser end
+2023-02-21 06:58:15,749 diff parser start
+2023-02-21 06:58:15,750 line_lengths old: 11; new: 15
+2023-02-21 06:58:15,750 -> code[equal] old[1:10] new[1:10]
+2023-02-21 06:58:15,751 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:58:15,751 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:58:15,752 copy old[5:8] new[3:8]
+2023-02-21 06:58:15,752 parse_part from 9 to 8 (to 8 in part parser)
+2023-02-21 06:58:15,753 parse_part from 9 to 13 (to 13 in part parser)
+2023-02-21 06:58:15,753 -> code[replace] old[11:11] new[11:15]
+2023-02-21 06:58:15,753 parse_part from 14 to 15 (to 14 in part parser)
+2023-02-21 06:58:15,753 diff parser end
+2023-02-21 06:58:19,461 diff parser start
+2023-02-21 06:58:19,461 line_lengths old: 15; new: 15
+2023-02-21 06:58:19,461 -> code[equal] old[1:14] new[1:14]
+2023-02-21 06:58:19,462 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:58:19,463 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:58:19,463 copy old[5:14] new[3:14]
+2023-02-21 06:58:19,463 -> code[replace] old[15:15] new[15:15]
+2023-02-21 06:58:19,463 parse_part from 15 to 15 (to 14 in part parser)
+2023-02-21 06:58:19,463 diff parser end
+2023-02-21 06:58:20,642 diff parser start
+2023-02-21 06:58:20,642 line_lengths old: 15; new: 15
+2023-02-21 06:58:20,642 -> code[equal] old[1:14] new[1:14]
+2023-02-21 06:58:20,643 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:58:20,644 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:58:20,644 copy old[5:14] new[3:14]
+2023-02-21 06:58:20,644 -> code[replace] old[15:15] new[15:15]
+2023-02-21 06:58:20,644 parse_part from 15 to 15 (to 14 in part parser)
+2023-02-21 06:58:20,644 diff parser end
+2023-02-21 06:58:22,154 diff parser start
+2023-02-21 06:58:22,155 line_lengths old: 15; new: 15
+2023-02-21 06:58:22,155 -> code[equal] old[1:14] new[1:14]
+2023-02-21 06:58:22,156 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:58:22,156 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:58:22,156 copy old[5:14] new[3:14]
+2023-02-21 06:58:22,156 -> code[replace] old[15:15] new[15:15]
+2023-02-21 06:58:22,156 parse_part from 15 to 15 (to 14 in part parser)
+2023-02-21 06:58:22,157 diff parser end
+2023-02-21 06:59:13,825 diff parser start
+2023-02-21 06:59:13,825 line_lengths old: 15; new: 17
+2023-02-21 06:59:13,825 -> code[equal] old[1:13] new[1:13]
+2023-02-21 06:59:13,826 parse_part from 1 to 1 (to 1 in part parser)
+2023-02-21 06:59:13,827 parse_part from 2 to 2 (to 4 in part parser)
+2023-02-21 06:59:13,827 copy old[5:8] new[3:8]
+2023-02-21 06:59:13,827 parse_part from 9 to 8 (to 8 in part parser)
+2023-02-21 06:59:13,828 parse_part from 9 to 13 (to 13 in part parser)
+2023-02-21 06:59:13,828 -> code[replace] old[14:15] new[14:17]
+2023-02-21 06:59:13,829 parse_part from 14 to 17 (to 16 in part parser)
+2023-02-21 06:59:13,829 diff parser end
+2023-02-21 06:59:39,356 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:00:01,857 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:00:19,246 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:00:28,866 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:00:32,368 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:00:37,848 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:02:27,653 This is the 5th question and here the use of custom Exception is performed.
+2023-02-21 07:04:09,781 This is 6th question , and here we are making a custom exception class.
